@@ -1,0 +1,105 @@
+
+body{
+
+background-image: url(../images/bg2.jpeg);
+background-size: cover;
+background-repeat: no-repeat;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size:cover;
+background-position: center;
+background-attachment: fixed;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+	color: black;
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 0;
+	
+
+}
+h2{
+	color: black;
+	font-size: 18px;
+	margin-top: 0;
+	opacity: 0.9;
+
+}
+.bio{
+	color: black;
+	font-size: 18px;
+	background-color: rgba(255,255,255,0.5);
+
+	font-family: 'Titillium Web', sans-serif;
+	margin-top: 50px;
+	padding: 10px 30px 10px 30px ;
+
+
+
+}
+.me{
+height: 250px;
+width: 250px;
+border-radius: 150%;
+border-color: white;
+border-style: solid;
+margin-top: 25px;
+
+}
+.about{
+
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-top: 200px;
+
+}
+.line{
+	margin-top: 100px;
+	padding-top: 5px;
+	background-color: black;
+
+}
+.linetop{
+		background-color: black;
+			padding-top: 3px;
+
+
+}
+
+.fb{
+border-radius: 150%;
+height: 50px;
+width: 50px;
+margin-right: 20px;
+margin-left: : 20px;
+
+}
+.twitter{
+border-radius: 150%;
+height: 50px;
+width: 50px;
+margin-right: 20px;
+margin-left: : 20px;
+
+}
+.insta{
+	border-radius: 150%;
+height: 50px;
+width: 50px;
+margin-right: 20px;
+margin-left: : 20px;
+
+}
+.logo{
+	opacity: 0.6;
+	text-align: center;
+
+}
+h6{
+	text-align: center;
+	margin-top: 0;
+}
